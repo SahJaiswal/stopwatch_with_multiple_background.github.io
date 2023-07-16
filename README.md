@@ -17,10 +17,6 @@ You can access the project by visiting the following website link: [Stopwatch wi
 
 To use the stopwatch, simply open the website link mentioned above in a web browser. Once the page loads, you can interact with the stopwatch using the provided buttons.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as permitted by the license.
-
 ## Acknowledgements
 
 The stopwatch project was developed by [sahjaiswal](https://github.com/sahjaiswal).
